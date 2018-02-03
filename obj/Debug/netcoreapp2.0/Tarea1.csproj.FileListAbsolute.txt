@@ -1,0 +1,10 @@
+C:\wamp64\www\Web2\Tarea1\bin\Debug\netcoreapp2.0\Tarea1.deps.json
+C:\wamp64\www\Web2\Tarea1\bin\Debug\netcoreapp2.0\Tarea1.runtimeconfig.json
+C:\wamp64\www\Web2\Tarea1\bin\Debug\netcoreapp2.0\Tarea1.runtimeconfig.dev.json
+C:\wamp64\www\Web2\Tarea1\bin\Debug\netcoreapp2.0\Tarea1.dll
+C:\wamp64\www\Web2\Tarea1\bin\Debug\netcoreapp2.0\Tarea1.pdb
+C:\wamp64\www\Web2\Tarea1\obj\Debug\netcoreapp2.0\Tarea1.csproj.CoreCompileInputs.cache
+C:\wamp64\www\Web2\Tarea1\obj\Debug\netcoreapp2.0\Tarea1.AssemblyInfoInputs.cache
+C:\wamp64\www\Web2\Tarea1\obj\Debug\netcoreapp2.0\Tarea1.AssemblyInfo.cs
+C:\wamp64\www\Web2\Tarea1\obj\Debug\netcoreapp2.0\Tarea1.dll
+C:\wamp64\www\Web2\Tarea1\obj\Debug\netcoreapp2.0\Tarea1.pdb

@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Services";
+}
+<h2>@ViewData["Title"]</h2>
+<hr>
+<div class="row">
+    <div class="card col-md-4" style="width: 18rem;">
+        <img class="card-img-top" src="~/images/Software.jpg" alt="Card image cap" width="286px" height="180px">
+        <div class="card-body">
+            <h5 class="card-title">Software Development</h5>
+            <p class="card-text">Is the process of conceiving, specifying, designing, 
+                programming, documenting, testing.</p>
+            <a asp-controller="Service" asp-action="Software" class="btn btn-primary">Read More</a>
+        </div>
+    </div>
+    <div class="card col-md-4" style="width: 18rem;">
+        <img class="card-img-top" src="~/images/qa.png" alt="Card image cap" width="286px" height="180px">
+        <div class="card-body">
+            <h5 class="card-title">Outsourcing and Quality Assurance</h5>
+            <p class="card-text">There are many benefits to outsourcing a company’s quality assurance..</p>
+            <a asp-controller="Service" asp-action="Quality" class="btn btn-primary">Read More</a>
+        </div>
+    </div>
+    <div class="card col-md-4" style="width: 18rem;">
+        <img class="card-img-top" src="~/images/programming.jpeg" alt="Card image cap" width="286px" height="180px">
+        <div class="card-body">
+            <h5 class="card-title">Programming</h5>
+            <p class="card-text">Computer programming is a process that leads 
+                from an original formulation of a computing problem to executable computer programs.</p>
+            <a asp-controller="Service" asp-action="Programming" class="btn btn-primary">Read More</a>
+        </div>
+    </div>
+</div>
